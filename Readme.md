@@ -73,7 +73,7 @@ Through this project I learned:
 
 ## 👨‍💻 Author
 
-**Shivam**
+**Shivam Vishwakarma**
 
 Computer Engineering Student  
 Aspiring Java Full Stack Developer

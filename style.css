@@ -15,7 +15,7 @@ color:white;
 }
 
 .logo{
-background-image:url("imagelogo.png");
+background-image:url("assets/images/imagelogo.png");
 background-size:contain;
 background-repeat:no-repeat;
 height:50px;
@@ -129,7 +129,7 @@ font-weight:700;
 
 .hero-section{
 height:350px;
-background-image:url("imagebg.png");
+background-image:url("assets/images/imagebg.png");
 background-size:cover;
 }
 
