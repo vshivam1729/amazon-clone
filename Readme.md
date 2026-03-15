@@ -8,7 +8,8 @@ This project replicates the layout and design of Amazon including the navigation
 
 ## 🚀 Live Demo
 
-Coming Soon (GitHub Pages)
+https://vshivam1729.github.io/amazon-clone/
+(GitHub Pages)
 
 ---
 
